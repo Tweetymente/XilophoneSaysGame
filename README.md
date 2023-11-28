@@ -1,4 +1,4 @@
-![App Tweetymente Banner] (Documentation/AppXilophoneSaysBanner.png)
+![App Tweetymente Banner](Documentation/AppXilophoneSaysBanner.png)
 
 
 # XilophoneSaysGame
