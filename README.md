@@ -3,7 +3,7 @@
 
 # XilophoneSaysGame
 
-Challenge 1: Convert the Xilophone App into a Simon Says game of 7 musical notes.
+**Challenge 1: Convert the Xilophone App into a Simon Says game of 7 musical notes.**
 
 
 The challenge of this development is to apply the knowledge obtained in one of the exercises developed in the course “The Complete iOS App Development Bootcamp” Taught by Dr. Angela Yu (Developer and Lead Instructor) 
